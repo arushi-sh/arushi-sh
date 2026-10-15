@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋 I'm Arushi Sharma</h2>
 <p align="center"><b>Backend Engineer · Go · APIs · AI-powered systems</b></p>
+<p align="center">🟢 <i>Open to backend engineering roles — Go, APIs, and AI-backed systems. Let's connect!</i></p>
 
 <p align="center">
   <a href="https://github.com/arushi-sh">
@@ -50,7 +51,7 @@
 
 ### 🤖 How I use AI
 
-I treat AI as part of both the product and the workflow. In my projects, LLMs and ML models sit behind Go services — the **OpenAI Go SDK** and **Claude API** for LLM features, and **scikit-learn** models served through **FastAPI** microservices — with prompts kept as versioned code. Day to day I use **Claude Code** for design reviews, debugging and refactors and **ChatGPT**, **Gemini**, **GitHub Copilot** and **Cursor** for quick exploration and code completion.
+I treat AI as part of both the product and the workflow. In my projects, LLMs and ML models sit behind Go services — the **OpenAI Go SDK** and **Claude API** for LLM features, and **scikit-learn** models served through **FastAPI** microservices — with prompts kept as versioned code. Day to day I use **Claude Code** and **Claude** for design reviews, debugging and refactors, **Claude in Chrome** for browser automation, **MCP** integrations (like **Apify**) to automate research and data-collection workflows, and **ChatGPT**, **Gemini**, **GitHub Copilot** and **Cursor** for quick exploration and code completion.
 
 ---
 
@@ -84,7 +85,3 @@ End-to-end data pipeline that extracts channel analytics from the **YouTube Data
 | [DSA-Preparation](https://github.com/arushi-sh/DSA-Preparation) | Ongoing DSA practice | C++ |
 
 </details>
-
----
-
-<p align="center"><i>Open to backend engineering roles — Go, APIs, and AI-backed systems. Let's connect!</i></p>
