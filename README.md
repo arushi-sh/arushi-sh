@@ -51,7 +51,7 @@
 
 ### 🤖 How I use AI
 
-I treat AI as part of both the product and the workflow. In my projects, LLMs and ML models sit behind Go services — the **OpenAI Go SDK** and **Claude API** for LLM features, and **scikit-learn** models served through **FastAPI** microservices — with prompts kept as versioned code. Day to day I use **Claude Code** and **Claude** for design reviews, debugging and refactors, **Claude in Chrome** for browser automation, **MCP** integrations (like **Apify**) to automate research and data-collection workflows, and **ChatGPT**, **Gemini**, **GitHub Copilot** and **Cursor** for quick exploration and code completion.
+I treat AI as part of both the product and the workflow. In my projects, LLMs and ML models sit behind Go services — the **OpenAI Go SDK** and **Claude API** for LLM features, and **scikit-learn** models served through **FastAPI** microservices — with prompts kept as versioned code. Day to day I use **Claude Code** and **Claude** for design reviews, debugging and refactors and **ChatGPT**, **Gemini**, **GitHub Copilot** and **Cursor** for quick exploration and code completion.
 
 ---
 
